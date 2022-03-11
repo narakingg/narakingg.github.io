@@ -1,5 +1,28 @@
 h1 {
 
     text-align: center;
-    
+
+}
+
+img {
+    width: 400px;
+
+}
+
+.center {
+    display: block;
+    margin-top: 10%;
+    width: 30%;
+    margin-left: 5%;
+
+}
+
+p {
+    margin-left: 60%;
+    font-size: 65px;
+    margin-bottom: 30px;
+}
+
+.catclass {
+    margin-left: 110%;
 }
